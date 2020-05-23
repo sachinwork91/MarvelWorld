@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MarvelWorld</string>
+    <string name="implement_image_onclick_message">Hi there, to go the next activity you need to modify this method</string>
+</resources>
